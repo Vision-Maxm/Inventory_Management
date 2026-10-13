@@ -1,0 +1,8 @@
+type,item_id,name,category,price,quantity,expiry_date
+Standard,PD-102,Charger,Electronics,350.0,18,
+Standard,PD-248,Boat Rockerz 450 Pro,Electronics,1850.0,24,
+Standard,PD-104,Duracell Battery,Electronics,50.0,55,
+Perishable,PD-501,Amul Gold Milk,Dairy,31.0,31,2026-10-16
+Perishable,PD-505,Brown Bread,Grains,30.0,22,2026-10-17
+Standard,PD-230,Pentatonic Gel pen,Stationary,10.0,60,
+Standard,PD-204,Power Bank,Electronics,550.0,34,
